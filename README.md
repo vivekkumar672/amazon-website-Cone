@@ -1,1 +1,1 @@
-# amazon-website-Cone
+Developed a responsive Amazon website clone using HTML and CSS, replicating key UI elements such as the homepage, product listings, and navigation bar. Implemented a structured layout, styled components, and ensured cross-device compatibility. Focused on clean design and user-friendly interface.
